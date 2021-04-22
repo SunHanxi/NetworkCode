@@ -5,8 +5,8 @@
 ### 3. [UDP客户端](https://github.com/SunHanxi/NetworkCode/blob/master/UDP_Client/udp_client.c)
 ### 4. [UDP服务端](https://github.com/SunHanxi/NetworkCode/blob/master/UDP_Server/udp_server.c)
 ### 5. [PING](https://github.com/SunHanxi/NetworkCode/tree/master/ping)
-### 6. [UDP实现tracerouter](https://github.com/SunHanxi/NetworkCode/tree/master/tcp_TraceRoute)
-### 7. [TCP实现tracerouter](https://github.com/SunHanxi/NetworkCode/tree/master/udp_TraceRoute)
+### 6. [UDP实现tracerouter](https://github.com/SunHanxi/NetworkCode/tree/master/udp_TraceRoute)
+### 7. [TCP实现tracerouter](https://github.com/SunHanxi/NetworkCode/tree/master/tcp_TraceRoute)
 
 
 ## socket挺好玩的，就是头有点冷
